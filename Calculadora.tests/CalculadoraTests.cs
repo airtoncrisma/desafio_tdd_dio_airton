@@ -5,7 +5,7 @@ namespace Calculadora.tests
 {
     public class CalculadoraTests
     {
-        public Calculadora clase()
+        public Calculadora classe()
         {
             string data = new DateTime().ToString();
             Calculadora calc = new Calculadora(data);
